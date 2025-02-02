@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a todo list website using html,css, and javascript
+- 🌱 I’m currently learning html,css,and javascript
+- :computer: Languages I have used before are Java & Python
+- 🤔 I’m looking for help with being more disciplined and committed to becoming a developer
+- 📫 How to reach me: shikharv@zohomail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I really like the video game Tunic
+- :scroll: Goals: I want to complete at least 3 projects by the end of the semester, and read 3 books
